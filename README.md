@@ -88,4 +88,4 @@ In my implementation, these resources contribute by: <br>
 2) Providing reliable scene classification for identifying crosswalks and pathways <br>
 3) Supporting the audio feedback system with accurate environmental information <br>
 
-The combination of MSCOCO-trained YOLO model and your custom fine-tuning creates a specialized system that bridges the gap between general computer vision capabilities and practical mobility assistance applications. This makes a novel contribution by demonstrating how transfer learning can be effectively applied to create real-world accessibility solutions.
+By taking a pre-trained YOLO model and customizing it with domain-specific data, we've created a practical system that helps with real-world mobility challenges. This shows how existing computer vision tools can be adapted and enhanced to solve specific accessibility problems, which is what makes our work unique and valuable.
