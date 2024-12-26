@@ -86,6 +86,8 @@ In my implementation, these resources contribute by: <br>
 
 1) Enabling real-time path detection and width measurement <br>
 2) Providing reliable scene classification for identifying crosswalks and pathways <br>
+
+Code doi: https://doi.org/10.5281/zenodo.14525369
 3) Supporting the audio feedback system with accurate environmental information <br>
 
 By taking a pre-trained YOLO model and customizing it with domain-specific data, we've created a practical system that helps with real-world mobility challenges. This shows how existing computer vision tools can be adapted and enhanced to solve specific accessibility problems, which is what makes our work unique and valuable.
