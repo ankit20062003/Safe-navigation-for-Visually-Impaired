@@ -90,4 +90,6 @@ In my implementation, these resources contribute by: <br>
 
 By taking a pre-trained YOLO model and customizing it with domain-specific data, we've created a practical system that helps with real-world mobility challenges. This shows how existing computer vision tools can be adapted and enhanced to solve specific accessibility problems, which is what makes our work unique and valuable. <b>
 
-Code doi: https://doi.org/10.5281/zenodo.14525369
+Code doi: https://doi.org/10.5281/zenodo.14525369 <br>
+Custom footpath dataset link: https://www.kaggle.com/datasets/dataclusterlabs/footpath-dataset (https://doi.org/10.5281/zenodo.14525163) <br>
+MsCOCO dataset link: https://www.kaggle.com/datasets/sabahesaraki/2017-2017 
